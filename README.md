@@ -4,4 +4,4 @@ Simple server
 # How to start
 make
 
-./http -r ~/home/
+./httpd -r ~/home/
