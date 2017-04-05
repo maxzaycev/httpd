@@ -2,6 +2,5 @@
 Simple server
 
 # How to start
-make
-
-./httpd -r ~/home/
+* make
+* ./httpd -r ~/home/
