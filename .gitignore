@@ -7,3 +7,4 @@
 Cargo.lock
 
 httpd
+.DS_Store

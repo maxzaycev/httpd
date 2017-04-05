@@ -1,0 +1,15 @@
+[package]
+name = "httpd"
+description = "Simple Http Server"
+license = "MIT"
+keywords = ["http", "server", "rust",]
+homepage = "http://github.com/maxzaycev/rust-httpd"
+version = "0.1.0"
+authors = ["Maksim Zaytsev <zaytsev@mail.com>"]
+
+[dependencies]
+argparse = "*"
+bytes = "*"
+chrono = "0.2"
+threadpool = "*"
+url = "0.5"
